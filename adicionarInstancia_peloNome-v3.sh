@@ -1,9 +1,9 @@
 #! /bin/sh
-domain='meudominio.com' ## Adicione o seu dominio
-subDomain='meusubdominio' ## Adicione o seu sub dominio 
+domain='directcount.com.br' ## Adicione o seu dominio
+subDomain='chat.directcount.com.br' ## Adicione o seu sub dominio 
 numberSequencial3Digites='001'  ## Adcione um numero Sequencial com 3 digitos não pode repetir de 000 a 999
-mysqlTablePassword="minhasenhamysql!" ## Adicone a senha que deseja utilizar para tabela do mysql
-mysqlRootPassword="senharootmysql"	## Adicone a senha de root para o mysql 
+mysqlTablePassword="sqbdb123" ## Adicone a senha que deseja utilizar para tabela do mysql
+mysqlRootPassword="sqbdb123"	## Adicone a senha de root para o mysql 
 
 
 
